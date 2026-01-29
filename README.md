@@ -2,7 +2,7 @@ A deep learning–based web application to detect plant leaf diseases from image
 
 This project helps identify plant diseases early, supporting farmers and agriculture researchers.
 
-Features
+Features:
 
 Detects plant leaf diseases from images
 
@@ -16,7 +16,7 @@ User-friendly Streamlit web app
 
 Shows prediction confidence
 
-Model Details
+Model Details:
 
 Architecture: VGG16 (ImageNet pretrained)
 
