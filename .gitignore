@@ -1,0 +1,79 @@
+# ===============================
+# Python
+# ===============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# ===============================
+# Virtual Environments
+# ===============================
+venv/
+env/
+tfenv/
+.venv/
+
+# ===============================
+# Environment / Secrets
+# ===============================
+.env
+.env.*
+*.env
+
+# ===============================
+# TensorFlow / Keras
+# ===============================
+*.h5
+*.keras
+*.weights.h5
+checkpoint
+logs/
+tensorboard/
+
+# ===============================
+# Model Artifacts (large files)
+# Uncomment if you don't want models in git
+# trained_model/
+# *.weights.h5
+
+# ===============================
+# Streamlit
+# ===============================
+.streamlit/
+.streamlit/config.toml
+
+# ===============================
+# Jupyter / Colab
+# ===============================
+.ipynb_checkpoints/
+*.ipynb
+
+# ===============================
+# OS Files
+# ===============================
+.DS_Store
+Thumbs.db
+
+# ===============================
+# IDE / Editor
+# ===============================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ===============================
+# Caches / Temp
+# ===============================
+.cache/
+.pytest_cache/
+.mypy_cache/
+
+# ===============================
+# Logs
+# ===============================
+*.log
