@@ -49,8 +49,8 @@ tensorboard/
 # ===============================
 # Jupyter / Colab
 # ===============================
-.ipynb_checkpoints/
-*.ipynb
+# .ipynb_checkpoints/
+# *.ipynb
 
 # ===============================
 # OS Files
